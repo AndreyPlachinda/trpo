@@ -1,3 +1,4 @@
 Test
 Add line
 Feature
+Class
